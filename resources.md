@@ -6,3 +6,4 @@
 ### Artistic/Design/Aesthetic
 1. https://twitter.com/2_dando/status/1180298649567318016?s=20&t=VEtH5HIx62fZ4qZVeyR7pg - img
 2. https://www.atlasobscura.com/places/pripyat-amusement-park - img
+3. https://twitter.com/UN_couple0804/status/1493150606093082625?s=20&t=sTpr1kJKro1vr6XJKqxqGQ - img
