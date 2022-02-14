@@ -1,2 +1,6 @@
 # Group7_Kochi
-Group 7 Repo
+Yizhi Zhou
+	Discord: imnsss#1317
+	Email: zhouyizhi1030@gmail.com
+	Github: https://github.com/imnsss
+
