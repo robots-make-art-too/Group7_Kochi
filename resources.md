@@ -5,7 +5,7 @@
 3. https://codereality.net/ar-for-eu-book/chapter/foundations/computerScience/programming/#javascript - Programming Languages
 4. https://www.learnpython.org/ - Programming site
 5. https://www.freecodecamp.org/news/tag/virtual-reality/ AR/coding
-6. 
+
 ### Artistic/Design/Aesthetic
 1. https://twitter.com/2_dando/status/1180298649567318016?s=20&t=VEtH5HIx62fZ4qZVeyR7pg - img
 2. https://www.atlasobscura.com/places/pripyat-amusement-park - img
