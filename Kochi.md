@@ -15,4 +15,8 @@
 	- Discord: skyzhuzhu[Bad at English]#3049
 	- Email: skyzhuzhu@outlook.com	
 	- Github: https://github.com/skyzhuzhu324
+- Hoyoung Kim
+	- Discord: Hkim#0865
+	- Email: huoak6261@gmail.com	
+	- Github: https://github.com/huoak6261
 
