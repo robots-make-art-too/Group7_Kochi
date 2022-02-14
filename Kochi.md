@@ -1,0 +1,18 @@
+# EECS 1720 Group 7!!
+- Group Name: KoChi
+
+# Information
+
+- Yizhi Zhou
+	- Discord: imnsss#1317
+	- Email: zhouyizhi1030@gmail.com
+	- Github: https://github.com/imnsss
+- Hyewon Kim
+	- Discord : HK#4313
+	- Email : axion24@naver.com
+	- Github : https://github.com/OttoNia
+- Jingtian Zhu
+	- Discord: skyzhuzhu[Bad at English]#3049
+	- Email: skyzhuzhu@outlook.com	
+	- Github: https://github.com/skyzhuzhu324
+
