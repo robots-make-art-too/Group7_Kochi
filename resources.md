@@ -3,8 +3,5 @@
 2. https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw - youtuber (YouTube)
 
 ## Artistic/Design/Aesthetic
-1.https://twitter.com/2_dando/status/1180298649567318016?s=20&t=VEtH5HIx62fZ4qZVeyR7pg - (img Twitter)
-2.
-3.
-4.
-5.
+1. https://twitter.com/2_dando/status/1180298649567318016?s=20&t=VEtH5HIx62fZ4qZVeyR7pg - (img Twitter)
+2. 
