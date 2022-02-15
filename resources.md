@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 10 Resources
 ### Technical 
 1. https://edu.goorm.io/learn/lecture/202/%EB%B0%94%EB%A1%9C-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC/lesson/6021/%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0 - Python Print Test Site (language : Korean)
@@ -12,3 +13,18 @@
 3. https://theqoo.net/square/910679544 - img
 4. https://www.museumnext.com/article/how-museums-are-using-augmented-reality/ - site (AR)
 5. https://pixabay.com/ko/images/search/dystopia/ - Free img site
+=======
+Technical resources
+    1. https://www.w3schools.com/ [A programming learning platform]
+    2. https://www.csdn.net/  [A Chinese programming forum]
+    3. https://www.qrcode-monkey.com/ [Free QR code generator]
+    4. https://leetcode.com [Practice for programming skills]
+    5. https://www.bccn.net [Another Chinese programming forum]
+
+Artistic/Design/Aesthetic resources
+    1. https://www.pexels.com/ [Free pictures]
+    2. https://unsplash.com/ [Free photos]
+    3. https://stocksnap.io/ [Free photos]
+    4. https://www.tosound.com/ [A Chinese website for free-to-use sounds]
+    5. https://freesound.org/ [Free sounds]
+>>>>>>> origin/dev-Jingtian
