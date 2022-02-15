@@ -1,4 +1,4 @@
-# 10 Resources
+# 10 Resources located by Yizhi Zhou
 
 - Technical
 1. https://py.processing.org/reference/ -- Processing Python references
