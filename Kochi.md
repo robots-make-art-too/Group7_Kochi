@@ -1,5 +1,6 @@
 # EECS 1720 Group 7!!
 - Group Name: KoChi
+- Our Topic : "The future society occupied by robots" Broadly speaking, "future technologies that have invaded the realm of nature and humans"
 
 # Information
 
