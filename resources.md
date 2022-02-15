@@ -11,4 +11,4 @@
 2. https://www.atlasobscura.com/places/pripyat-amusement-park - img
 3. https://theqoo.net/square/910679544 - img
 4. https://www.museumnext.com/article/how-museums-are-using-augmented-reality/ - site (AR)
-5. https://pixabay.com/ko/ - Free img site
+5. https://pixabay.com/ko/images/search/dystopia/ - Free img site
