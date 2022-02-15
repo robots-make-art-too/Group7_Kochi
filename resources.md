@@ -1,4 +1,3 @@
-# 10 Resources
 ## Technical Resources
 1. CodePen:https://codepen.io/pen/
 2. Processing:https://processing.org/
