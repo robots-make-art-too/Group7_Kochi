@@ -14,7 +14,7 @@
 3. https://theqoo.net/square/910679544 - img
 4. https://www.museumnext.com/article/how-museums-are-using-augmented-reality/ - site (AR)
 5. https://pixabay.com/ko/images/search/dystopia/ - Free img site
-=======
+=======dev-Hyewon
 ### Technical resources
     1. https://www.w3schools.com/ [A programming learning platform]
     2. https://www.csdn.net/  [A Chinese programming forum]
