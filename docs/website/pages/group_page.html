@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <!-- CSS,JS link here -->
+        <link rel="stylesheet" href="../group_page/page_css.css" title="style" type="text/css"/>
+        <script src="" type="module"></script>
+        <title>
+            Group7_Kochi's AR project
+        </title>
+    </head>
+
+    <!-- info -->
+    <body>
+        <h1>Group7_Kochi's AR project</h1>
+
+     <!-- need img change -->
+     <div style="text-align:center">
+        <img src="../group_page/data/qr-code.png" alt="qr-code" width="300px" height="300px">
+    </div>
+
+    <h2>Brief description of our group project</h2>
+    <p>
+        Our group's goal is to create a pop art book using the flags of countries related to our group. </br>
+        The pop-art book we created works by showing users the most iconic models of the country. </br> 
+        We will provide QR codes and AR screens that can be used on this page.
+    </p>
+   </body>
+
+   </br>
+   <hr>
+
+   <!-- AR page -->
+   <body>
+       <h2>Click this button to open the AR webpage</h2>
+       <!-- onclick="openTab('file_link')" -->
+       <div style="text-align:center">
+         <button id="AR" onclick="openTab('')" type="button"> AR webpage</button>
+       </div>
+   </body>
+    </br>
+    <hr>
+
+   <!-- group member -->
+<body>
+   <h2> Group Member </h2>
+   <!-- Group_github_link -->
+   <nav>
+    <ul>
+        <li><a href="https://github.com/robots-make-art-too/Group7_Kochi" target="main_area">group_github_KoChi</a></li>
+    </ul>
+   </nav>
+
+   <!-- member info-->
+   <div style="text-align:left">
+   <a class="member">
+       <!-- https://icons8.com/icon/hWh045qJVSsV/animal -->
+       <img src="../group_page/icon/icons8-animal-91.png" alt="icon" height="100px" width="100px">
+       Hyewon Kim
+   </a>
+   
+   <a class="member">
+       <!-- https://icons8.com/icon/fzYmYHMhXCQF/dragon -->
+       <img src="../group_page/icon/icons8-dragon-64.png" alt="icon" height="100px" width="100px">
+        Yizhi Zhou
+   </a>
+
+   <a class="member">
+       <img src="../group_page/icon/icons8-dragon-64.png" alt="icon" height="100px" width="100px">
+       Jingtian Zhu
+   </a>
+   
+   <!-- Members who did not participate in the Phase 2 and 3 group work
+   <a class="member">
+       <img src="../group_page/icon/icons8-animal-91.png" alt="icon" height="100px" width="100px">
+       Hoyoung Kim
+   </a>
+   -->
+
+   <!-- need img change -->
+    <img class="LOGO" height="300px" src="../group_page/data/pattern.png" width="300px"/>
+   </div>
+
+   <!-- button script -->
+   <script>
+    function openTab(url) {
+        const link = document.createElement('a');
+        link.href = url;
+        link.target = '_blank';
+        document.body.appendChild(link);
+        link.click();
+        link.remove();
+    }
+    </script>
+
+    <!-- a-marker-->
+        <a-marker preset="logo">
+        </a-marker>
+        <a-marker type="pattern" url="path/to/pattern-YU_pattern.patt">
+        </a-marker>
+
+</body>
+</html>
