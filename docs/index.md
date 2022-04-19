@@ -122,4 +122,3 @@
         </a-marker>
 
 </body>
-</html>
