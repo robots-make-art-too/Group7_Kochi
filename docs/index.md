@@ -3,7 +3,7 @@
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <!-- CSS,JS link here -->
-        <link rel="stylesheet" href="../group_page/page_css.css" title="style" type="text/css"/>
+        <link rel="stylesheet" href="group_page/page_css.css" title="style" type="text/css"/>
         <script src="" type="module"></script>
         <title>
             Group7_Kochi's AR project
@@ -13,8 +13,8 @@
         <h1>Group7_Kochi's AR project</h1>
      <!-- need img change -->
      <div style="text-align:center">
-        <img src="../group_page/data/QRcode_Edited.png" alt="QR_code" width="400px" height="400"></br>
-        <img src="../group_page/icon/KoChi.png" alt="qr-code" width="300px" height="300px">
+        <img src="group_page/data/QRcode_Edited.png" alt="QR_code" width="400px" height="400"></br>
+        <img src="group_page/icon/KoChi.png" alt="qr-code" width="300px" height="300px">
     </div>
     <h2>Brief description of our group project</h2>
     <p>
@@ -37,10 +37,10 @@
        </div>
         <!-- marker img -->
     <h2> The marker image and meaning of the model used </h2>
-    <img class="LOGO" height="300px" src="../group_page/data/pattern-canadaflag.png" width="250px" height="200px"/>
-    <img class="LOGO" height="300px" src="../group_page/data/pattern-china.png" width="250px" height="200px"/>
-    <img class="LOGO" height="300px" src="../group_page/data/pattern-japan.png" width="250px" height="200px"/>
-    <img class="LOGO" height="300px" src="../group_page/data/pattern-southkorea.png" width="250px" height="200px"/>
+    <img class="LOGO" height="300px" src="group_page/data/pattern-canadaflag.png" width="250px" height="200px"/>
+    <img class="LOGO" height="300px" src="group_page/data/pattern-china.png" width="250px" height="200px"/>
+    <img class="LOGO" height="300px" src="group_page/data/pattern-japan.png" width="250px" height="200px"/>
+    <img class="LOGO" height="300px" src="group_page/data/pattern-southkorea.png" width="250px" height="200px"/>
     <p><a class= "a1"> Maple Leaf (Canada) : </a> </br>  
     <p class="p1">
     The maple leaf is on the coat of arms of Canada, and is on the Canadian flag. The maple is a common symbol of strength and endurance and has been chosen as the national tree of Canada. </br>
@@ -78,18 +78,18 @@
    <div style="text-align:left">
    <a class="member">
        <!-- https://icons8.com/icon/hWh045qJVSsV/animal -->
-       <img src="../group_page/icon/icons8-animal-91.png" alt="icon" height="100px" width="100px">
+       <img src="group_page/icon/icons8-animal-91.png" alt="icon" height="100px" width="100px">
        Hyewon Kim
    </a>
    
    <a class="member">
        <!-- https://icons8.com/icon/fzYmYHMhXCQF/dragon -->
-       <img src="../group_page/icon/icons8-dragon-64.png" alt="icon" height="100px" width="100px">
+       <img src="group_page/icon/icons8-dragon-64.png" alt="icon" height="100px" width="100px">
         Yizhi Zhou
    </a>
 
    <a class="member">
-       <img src="../group_page/icon/icons8-dragon-64.png" alt="icon" height="100px" width="100px">
+       <img src="group_page/icon/icons8-dragon-64.png" alt="icon" height="100px" width="100px">
        Jingtian Zhu
    </a>
    
