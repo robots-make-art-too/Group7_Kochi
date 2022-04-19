@@ -4,7 +4,7 @@
 
     h1 {
         padding: 20px 0px;
-        background-color: #444444;
+        background-color: #ff6767;
         text-align: center;
         color: #ffffff;
       }
@@ -13,8 +13,21 @@
         text-align: center;
     }
 
-    p {
+    .a1 {
         text-align: center;
+        font-size: 22px;
+    }
+    .p1 {
+        text-align: left;
+        font-size: 18px;
+        margin: 10px;
+        padding: 10px;
+        border: solid rgb(250, 158, 173);
+    }
+
+    p {
+        text-align: left;
+        font-size: 20px;
     }
 
     button {
@@ -24,7 +37,7 @@
         box-sizing: border-box;
         margin-bottom: 20px;
         font-size: 30px;
-        background-color: #444444;
+        background-color: #ef6767;
         color: #ffffff;
     }
 
@@ -38,8 +51,4 @@
         text-align: center;
         margin-right: 50px;
         margin-left: 10px;
-    }
-    .flag {
-        float: center;
-        margin: auto;
     }
