@@ -13,55 +13,52 @@
         <h1>Group7_Kochi's AR project</h1>
      <!-- need img change -->
      <div style="text-align:center">
-        <img src="group_page/data/QRcode_Edited.png" alt="QR_code" width="400px" height="400"></br>
+        <img src="group_page/data/QRcode_Edited.png" alt="QR_code" width="400px" height="400">
         <img src="group_page/icon/KoChi.png" alt="qr-code" width="300px" height="300px">
     </div>
     <h2>Brief description of our group project</h2>
     <p>
-        Our group's goal is to create a pop art book using the flags of countries related to our group. </br>
-        We first choose Canada(studying now) and then we decided to show images of each group member's country (South Korea, China) and Japan, the most famous Asian country.</br>
-        The pop-art book we created works by showing users the most iconic models of the country. </br> 
+        Our group's goal is to create a pop art book using the flags of countries related to our group. 
+        We first choose Canada(studying now) and then we decided to show images of each group member's country (South Korea, China) and Japan, the most famous Asian country.
+        The pop-art book we created works by showing users the most iconic models of the country. 
         We will provide QR codes and AR screens that can be used on this page.
-    </p>
    </body>
 
-   </br>
    <hr>
 
    <!-- AR page -->
    <body>
-       <h2>Click this button to open the AR webpage</h2>
+       <h3>Click this button to open the AR webpage</h3>
        <!-- onclick="openTab('file_link')" -->
        <div style="text-align:center">
-         <button id="AR" onclick="openTab('ar.html')" type="button"> AR webpage</button>
+         <button id="AR" onclick="openTab('group_page/ar.html')" type="button"> AR webpage</button>
        </div>
         <!-- marker img -->
-    <h2> The marker image and meaning of the model used </h2>
+    <h4> The marker image and meaning of the model used </h5>
     <img class="LOGO" height="300px" src="group_page/data/pattern-canadaflag.png" width="250px" height="200px"/>
     <img class="LOGO" height="300px" src="group_page/data/pattern-china.png" width="250px" height="200px"/>
     <img class="LOGO" height="300px" src="group_page/data/pattern-japan.png" width="250px" height="200px"/>
     <img class="LOGO" height="300px" src="group_page/data/pattern-southkorea.png" width="250px" height="200px"/>
-    <p><a class= "a1"> Maple Leaf (Canada) : </a> </br>  
+    <p><a class= "a1"> Maple Leaf (Canada) : </a> 
     <p class="p1">
-    The maple leaf is on the coat of arms of Canada, and is on the Canadian flag. The maple is a common symbol of strength and endurance and has been chosen as the national tree of Canada. </br>
+    The maple leaf is on the coat of arms of Canada, and is on the Canadian flag. The maple is a common symbol of strength and endurance and has been chosen as the national tree of Canada. 
     Maple leaves are traditionally an important part of Canadian Forces military regalia, for example, the military rank insignia for generals use maple leaf symbols.</br> 
     There are 10 species naturally growing in the country, with at least one in each province.</p>
-    <p><a class="a1"> Dragon (China) : </a> </br>
+    <p><a class="a1"> Dragon (China) : </a> 
     <p class="p1">
     The Chinese dragon, also known as loong, long or lung, is a legendary creature in Chinese mythology, Chinese folklore, and Chinese culture at large.</br> 
     Chinese dragons have many animal-like forms such as turtles and fish, but are most commonly depicted as snake-like with four legs. They traditionally symbolize potent and auspicious powers, particularly control over water, rainfall, typhoons, and floods.</br> 
     The dragon is also a symbol of power, strength, and good luck for people who are worthy of it in East Asian culture.</p>
-    <p><a class="a1"> Tiger (South Korea) : </a> </br>
+    <p><a class="a1"> Tiger (South Korea) : </a> 
     <p class="p1">
-    The tiger (horang-i) plays a significant part in Korean culture. Historically, the tiger has been linked with Korea from the beginning.</br> 
-    The tiger is strongly associated with Korean culture and is seen as representative to the identity of Koreans. Tigers in Korea are a symbol of strength and power and often seen as the guardian spirit and protector of the Korean people.</br> 
+    The tiger (horang-i) plays a significant part in Korean culture. Historically, the tiger has been linked with Korea from the beginning.
+    The tiger is strongly associated with Korean culture and is seen as representative to the identity of Koreans. Tigers in Korea are a symbol of strength and power and often seen as the guardian spirit and protector of the Korean people.
     Tigers are often featured in many Korean folktales and stories. The tiger is a popular subject of art and paintings in Korea. Through these works you can see evidence of the tiger's significance and sacred standing in Korean society throughout history.</p>
-    <p><a class="a1"> Sakura (Japan) : </a> </br>
+    <p><a class="a1"> Sakura (Japan) : </a> 
     <p class="p1">
-    The national flower of Japan, the cherry blossom - or Sakura, represents a time of renewal and optimism. </br>
-    The pops of pink mark the ending of winter and signify the beginning of spring. Due to their quick blooming season, cherry blossoms also symbolize the transience of life, a major theme in Buddhism. </br>
+    The national flower of Japan, the cherry blossom - or Sakura, represents a time of renewal and optimism. 
+    The pops of pink mark the ending of winter and signify the beginning of spring. Due to their quick blooming season, cherry blossoms also symbolize the transience of life, a major theme in Buddhism. 
     Cherry blossoms' magnificent but brief lifespan, falling a couple of weeks after full bloom, reminds people that similar to the delicate white-pink flowers a human's life is also short and beautiful.</p>
-</br>
  <hr>
 
    <!-- group member -->
