@@ -2,7 +2,6 @@
     <head>
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <!-- CSS,JS link here -->
         <link rel="stylesheet" href="group_page/page_css.css" title="style" type="text/css"/>
         <script src="" type="module"></script>
         <title>
@@ -13,7 +12,7 @@
         <h1>Group7_Kochi's AR project</h1>
      <!-- need img change -->
      <div style="text-align:center">
-        <img src="group_page/data/QRcode_Edited.png" alt="QR_code" width="400px" height="400">
+        <img src="group_page/data/qrcode.png" alt="QR_code" width="200px" height="200">
         <img src="group_page/icon/KoChi.png" alt="qr-code" width="300px" height="300px">
     </div>
     <h2>Brief description of our group project</h2>
